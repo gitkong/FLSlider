@@ -1,3 +1,4 @@
+# 支持pod，search FLSlider
 # 自定义slider
 - 可监听开始滑动、正在滑动、结束滑动三个状态
 
